@@ -11,7 +11,7 @@
 - KPI Analysis 
 
 ---
-### 🇦🇿 Azərbaycan <span class="fi fi-az"></span>
+### 🇦🇿 Azərbaycan 🇦🇿
 Bu layihəni **Drinko Company** satış məlumatlarının Microsoft Excel vasitəsilə analitik təhlili və vizuallaşdırılması məqsədilə hazırlamışam. Məlumatlar analiz üçün uyğun vəziyyətə gətirilmiş, Pivot cədvəllər qurulmuş, əsas KPI-lar hesablanmış və **Final Outcome** bölməsində biznes performansını əks etdirən yekun nəticələr PNG formatında vizual olaraq təqdim olunmuşdur. Layihə şirkətin keçmiş satışlarının mövcud satışlarla müqayisəsinə əsaslanır və data-əsaslı qərarların verilməsini, eyni zamanda satışların və profitin artırılmasını hədəfləyir.
 
 ---

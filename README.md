@@ -1,4 +1,5 @@
-![Uploading 9a0f56239626303.Y3JvcCwxNDAwLDEwOTUsMCww.jpg…]()
+
+![9a0f56239626303 Y3JvcCwxNDAwLDEwOTUsMCww](https://github.com/user-attachments/assets/546a2eb8-d218-4d53-ae5b-9998c0972c5f)
 
 # Drinko Company Sales Analysis (Excel)
 

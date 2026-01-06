@@ -1,8 +1,6 @@
 # Drinko Company Sales Analysis (Excel)
 
 ## 📊 Project Overview
-
-## 📊 Project Overview
 ---
 
 ## 🛠 Tools & Techniques

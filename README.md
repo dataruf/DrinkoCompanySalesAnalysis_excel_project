@@ -1,3 +1,5 @@
+![Uploading 9a0f56239626303.Y3JvcCwxNDAwLDEwOTUsMCww.jpg…]()
+
 # Drinko Company Sales Analysis (Excel)
 
 ## 📊 Project Overview
